@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DivyaMaddipati/To-do_react.git/static/css/main.9430b45a.css",
+    "main.js": "/DivyaMaddipati/To-do_react.git/static/js/main.d2eae018.js",
+    "index.html": "/DivyaMaddipati/To-do_react.git/index.html",
+    "main.9430b45a.css.map": "/DivyaMaddipati/To-do_react.git/static/css/main.9430b45a.css.map",
+    "main.d2eae018.js.map": "/DivyaMaddipati/To-do_react.git/static/js/main.d2eae018.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9430b45a.css",
+    "static/js/main.d2eae018.js"
+  ]
+}
