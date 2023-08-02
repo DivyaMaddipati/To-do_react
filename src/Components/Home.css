@@ -1,0 +1,10 @@
+
+div{
+    background-color: white;
+    /* width: 70%; */
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Vithkuqi&family=Roboto+Slab:wght@200&family=Roboto:wght@300;400&display=swap');
